@@ -1,1 +1,1 @@
-# testSSH edit on my comuter
+# testSSH edit on my coputer
